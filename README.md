@@ -6,8 +6,8 @@ git clone https://github.com/gold-developer/pokerdev.git
 
 <add "fsevents": "^1.2.7", on Mac OS.>
 
-yarn install
-npm install
-nodejs node_modules/node-sass/scripts/install.js
-npm rebuild node-sass
-npm run-script build
+yarn install  
+npm install  
+nodejs node_modules/node-sass/scripts/install.js  
+npm rebuild node-sass  
+npm run-script build  
