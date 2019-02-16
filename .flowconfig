@@ -1,0 +1,16 @@
+[ignore]
+./.gitignore
+./.gitattributes
+./node_modules/
+
+[include]
+./client/app/components/*.js
+
+[libs]
+
+[lints]
+
+[options]
+module.name_mapper='^app/\(.*\)' -> '<PROJECT_ROOT>/client/modules/\1'
+
+[strict]
